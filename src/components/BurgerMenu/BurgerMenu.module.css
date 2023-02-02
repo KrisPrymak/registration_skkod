@@ -1,0 +1,14 @@
+.header__mobileMenu {
+    width: 19px;
+    height: 15px;
+    cursor: pointer;
+}
+.header__mobileMenu span {
+    width: 19px;
+    height: 3px;
+    display: block;
+    background-color: #2C60E3;
+}
+.header__mobileMenu span:not(:last-child) {
+    margin-bottom: 3px;
+}
