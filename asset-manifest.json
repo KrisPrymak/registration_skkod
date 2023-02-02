@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/registration_skkod/static/css/main.28cb331f.css",
+    "main.js": "/registration_skkod/static/js/main.9a36fee3.js",
+    "static/media/logo-2-color 1.png": "/registration_skkod/static/media/logo-2-color 1.0409d80f9c01d4755602.png",
+    "static/media/enter.svg": "/registration_skkod/static/media/enter.be432b857ba173f7f73ccbf346921074.svg",
+    "index.html": "/registration_skkod/index.html",
+    "static/media/checkbox-checked.svg": "/registration_skkod/static/media/checkbox-checked.e472640665d7270db627.svg",
+    "main.28cb331f.css.map": "/registration_skkod/static/css/main.28cb331f.css.map",
+    "main.9a36fee3.js.map": "/registration_skkod/static/js/main.9a36fee3.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.28cb331f.css",
+    "static/js/main.9a36fee3.js"
+  ]
+}
